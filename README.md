@@ -1,5 +1,5 @@
-Steven Buss
-steven.buss@gmail.com
+Steven Buss  
+steven.buss@gmail.com  
 http://github.com/sbuss
 
 Education
